@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct meaning of the idiom "spill the beans"?</questionString>
+        <option>To make a mess</option>
+        <option answer="true">To reveal a secret</option>
+        <option>To cook something quickly</option>
+        <option>To express excitement</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is a synonym for "happy"?</questionString>
+        <option>Sad</option>
+        <option answer="true">Joyful</option>
+        <option>Tired</option>
+        <option answer="true">Cheerful</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the past tense of the verb "to run"?</questionString>
+        <option>Run</option>
+        <option answer="true">Ran</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>English</topic>
+        <questionString>What is the subjunctive mood primarily used for in English?</questionString>
+        <option>To describe past events</option>
+        <option answer="true">To express wishes or hypothetical situations</option>
+        <option>To command or request something</option>
+        <option>To indicate a question</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which sentence uses proper subject-verb agreement?</questionString>
+        <option>Each of the players have a ball.</option>
+        <option>None of the answers is correct.</option>
+        <option>The group of students are waiting outside.</option>
+        <option answer="true">The team is winning the game.</option>
+        <option>Both answers A and C are correct.</option>
+        <option>All of the above.</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the plural form of the word "child"?</questionString>
+        <option>Childs</option>
+        <option answer="true">Children</option>
+        <option>Childes</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following sentences uses the correct form of "their," "there," or "they're"?</questionString>
+        <option answer="true">They're going to the park this afternoon.</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>English</topic>
+        <questionString>What is a dangling modifier in English grammar?</questionString>
+        <option>A verb that lacks a subject</option>
+        <option answer="true">A phrase that does not clearly modify a specific word</option>
+        <option>A type of conjunction</option>
+        <option>A misused punctuation mark</option>
+    </question>
+</questions>

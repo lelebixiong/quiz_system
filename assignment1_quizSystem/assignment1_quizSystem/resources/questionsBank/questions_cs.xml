@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary function of an operating system?</questionString>
+        <option>To compile programs</option>
+        <option answer="true">To manage hardware and software resources</option>
+        <option>To design user interfaces</option>
+        <option>To process network requests</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which language is primarily used for web development?</questionString>
+        <option>C++</option>
+        <option answer="true">JavaScript</option>
+        <option>Assembly</option>
+        <option answer="true">HTML</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What does the term "recursion" refer to in programming?</questionString>
+        <option>A function that modifies a global variable</option>
+        <option answer="true">A function that calls itself</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the main characteristic of a Turing-complete machine?</questionString>
+        <option>It can process large amounts of data quickly</option>
+        <option answer="true">It can simulate any algorithm</option>
+        <option>It requires minimal hardware resources</option>
+        <option>It only works with binary input</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which algorithm is used to find the shortest path in a graph?</questionString>
+        <option>Dijkstra's algorithm</option>
+        <option>Depth First Search</option>
+        <option>Breadth First Search</option>
+        <option answer="true">A* algorithm</option>
+        <option>Kruskal's algorithm</option>
+        <option>Prim's algorithm</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which part of a computer executes instructions from programs?</questionString>
+        <option>RAM</option>
+        <option answer="true">CPU</option>
+        <option>Hard Drive</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which data structure uses LIFO (Last In, First Out)?</questionString>
+        <option answer="true">Stack</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which sorting algorithm has an average-case time complexity of O(n log n)?</questionString>
+        <option>Bubble Sort</option>
+        <option answer="true">Merge Sort</option>
+        <option>Insertion Sort</option>
+        <option>Selection Sort</option>
+    </question>
+</questions>

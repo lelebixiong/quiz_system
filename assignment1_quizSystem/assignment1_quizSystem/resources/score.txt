@@ -1,0 +1,14 @@
+tanjiro,Kamado Tanjiro,0,0,0,0
+nezuko,Kamado Nezuko,0,0,0,0
+zenitsu,Agatsuma Zenitsu,4,0,0,0
+inosuke,Hashibira Inosuke,0,0,0,0
+kanao,Tsuyuri Kanao,0,0,0,0
+giyo,Tomioka Giyo,0,0,0,0
+mitsuri,Kanroji Mitsuri,0,0,0,0
+ibanai,Iguro Obanai,0,0,0,0
+sanemi,Shinazugawa Sanemi,0,0,0,0
+gyomei,Himejima Gyomei,0,0,0,0
+muichiro,Tokito Muichiro,0,0,0,0
+shinobu,Kocho Shinobu,0,0,0,0
+kyojuro,Rengoku Kyojuro,0,0,0,0
+kanae,Kocho Kanae,0,0,0,0

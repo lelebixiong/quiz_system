@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the derivative of sin(x)?</questionString>
+        <option>cos(x)</option>
+        <option answer="true">cos(x)</option>
+        <option>-sin(x)</option>
+        <option>sin(x)</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 2 + 2?</questionString>
+        <option>3</option>
+        <option answer="true">4</option>
+        <option>5</option>
+        <option answer="true">4</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the value of π (pi) rounded to two decimal places?</questionString>
+        <option>3.12</option>
+        <option answer="true">3.14</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 2x + 5 = 15</questionString>
+        <option>5</option>
+        <option answer="true">5</option>
+        <option>10</option>
+        <option>15</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>What is the integral of x² dx?</questionString>
+        <option>x³</option>
+        <option>x³ + C</option>
+        <option>2x³</option>
+        <option>⅓x³</option>
+        <option answer="true">⅓x³ + C</option>
+        <option>None of the above</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 10% of 50?</questionString>
+        <option>4</option>
+        <option answer="true">5</option>
+        <option>6</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the least common multiple (LCM) of 4 and 6?</questionString>
+        <option answer="true">12</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x in the quadratic equation x² - 5x + 6 = 0</questionString>
+        <option>1 and 6</option>
+        <option answer="true">2 and 3</option>
+        <option>0 and 6</option>
+        <option>2 and 4</option>
+    </question>
+</questions>
